@@ -1,0 +1,8 @@
+Flask
+numpy
+onnxruntime>=1.18.0
+opencv_contrib_python>=4.10.0.82
+opencv_python>=4.9.0.80
+rknn_toolkit_lite2==2.0.0b0
+scikit_learn
+scipy
